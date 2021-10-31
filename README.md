@@ -6,7 +6,7 @@ Game-like Website for BatchQuest - An OpenWorld, Pure Batch, MMORPG Game
 
 ## Screenshots
 
-![Website Screenshot](https://via.placeholder.com/468x300?text=Website+Screenshot+Here)
+![Website Screenshot](https://i.imgur.com/Ti0pkST.png)
 ## Authors
 
 - [Sarp Tekbaş](https://github.com/sarptekbas)
