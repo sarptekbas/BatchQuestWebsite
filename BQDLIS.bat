@@ -145,10 +145,10 @@ echo.
 echo Press "E" to join the Discord.
 
 choice -c em -n >nul
-if %errorlevel%==1 start https://discord.gg/DyQGuanpbT
+if %errorlevel%==1 start https://discord.gg/Kqdh75D43P
 goto fail
 
 :endloop
 choice -c em -n >nul
-if %errorlevel%==1 start https://discord.gg/DyQGuanpbT
+if %errorlevel%==1 start https://discord.gg/Kqdh75D43P
 goto endloop
