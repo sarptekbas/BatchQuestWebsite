@@ -1,0 +1,71 @@
+* {
+    padding: 0px;
+    margin: 0 auto;
+    background-color: #0c0c0c;
+    font-family: consolas;
+
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+
+    font-family: Consolas;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} 
+
+.batchquest-img {
+    user-drag: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+
+    z-index: -1;
+}
+
+.name {
+    position: absolute;
+    left: 10.5%;
+    top: 5%;
+    font-size: 2.5em;
+}
+
+.version {
+    position: absolute;
+    right: 10.5%;
+    top: 5%;
+    font-size: 2.5em;
+}
+
+.download, .about, .support, .join-discord {
+    position: absolute;
+    top: 90%;
+    font-size: 2.5em;
+}
+
+.download {
+    left: 10.7%;
+}
+
+.about {
+    left: 30%;
+}
+
+.support {
+    left: 40%;
+}
+
+.join-discord {
+    left: 52.5%;
+}
